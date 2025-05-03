@@ -1,2 +1,2 @@
-DATABASE_URL="postgresql://postgres:Heytbamr3.pr@localhost:5432/jobboard?schema=public"
+DATABASE_URL="postgresql://postgres:Heytbamr4.pr@localhost:5432/jobboard?schema=public"
 JWT_SECRET="supersecret123"
