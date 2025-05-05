@@ -1,0 +1,2 @@
+DATABASE_URL="postgresql://postgres:randompasswordpr@localhost:5432/jobboard?schema=public"
+JWT_SECRET="supersecret123"
